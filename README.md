@@ -1,5 +1,5 @@
 # trabalhoIndividual3
-Trabalho consta no link aberto <a href="https://colab.research.google.com/drive/1FJEXZnYbG8PDcAIWinouqRKvnP5qGRet?usp=sharing"/>  
+Trabalho consta no link aberto <a href="https://colab.research.google.com/drive/1FJEXZnYbG8PDcAIWinouqRKvnP5qGRet?usp=sharing">https://colab.research.google.com/drive/1FJEXZnYbG8PDcAIWinouqRKvnP5qGRet?usp=sharing/>  
 
 # Instruções para Executar a Análise de Dados
 
